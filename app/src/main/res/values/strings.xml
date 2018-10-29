@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1029_Intent</string>
+    <string name="button1">버튼1</string>
+    <string name="button2">버튼2</string>
+    <string name="button3">버튼3</string>
+    <string name="textView">Intent</string>
+    <string name="textViewSub1">SUB1</string>
+    <string name="textViewSub2">SUB2</string>
+    <string name="textViewSub3">SUB3</string>
+</resources>
